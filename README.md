@@ -32,3 +32,11 @@ matplotlib is a very good library to start in data visualization
 
 ### link
 https://github.com/Bngfm/Machine-Learning/blob/main/4_matplotlib.ipynb
+
+## 5. File 5 (5_scipy)
+- ### optimize a function using scipy
+this part contains the use of the scipy module, more precisely its optimize function used to optimize a mathematical function and obtain its minimum
+it is important to understand the basic concepts of optimization in the machine learning journey, which will later help to understand how machine learning algorithms work
+
+### link 
+https://github.com/Bngfm/Machine-Learning/blob/main/5_scipy.ipynb
