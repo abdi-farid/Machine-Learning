@@ -46,3 +46,9 @@ https://github.com/Bngfm/Machine-Learning/blob/main/5_scipy.ipynb
 the functions of pandas of pandas,reading an excel file, deleting empty lines, slicing ...
 ### link
 https://github.com/Bngfm/Machine-Learning/blob/main/6_pandas.ipynb
+
+## 7. File 7 (7_Seaborn)
+- ### two functions in seaborn
+
+### link
+https://github.com/Bngfm/Machine-Learning/blob/main/7_Seaborn.ipynb
