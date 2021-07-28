@@ -40,3 +40,9 @@ it is important to understand the basic concepts of optimization in the machine 
 
 ### link 
 https://github.com/Bngfm/Machine-Learning/blob/main/5_scipy.ipynb
+
+## 6. File 5 (6_pandas)
+- ### basic pandas' functioons
+the functions of pandas of pandas,reading an excel file, deleting empty lines, slicing ...
+### link
+https://github.com/Bngfm/Machine-Learning/blob/main/6_pandas.ipynb
