@@ -52,3 +52,11 @@ https://github.com/Bngfm/Machine-Learning/blob/main/6_pandas.ipynb
 
 ### link
 https://github.com/Bngfm/Machine-Learning/blob/main/7_Seaborn.ipynb
+
+## 8. File 8 (8_sklearn)
+- ### First machine learning models 
+- Regression 
+- Classification
+- (titanic dataset)
+### link
+https://github.com/Bngfm/Machine-Learning/blob/main/8_sklearn.ipynb
