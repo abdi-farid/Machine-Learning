@@ -60,3 +60,17 @@ https://github.com/Bngfm/Machine-Learning/blob/main/7_Seaborn.ipynb
 - (titanic dataset)
 ### link
 https://github.com/Bngfm/Machine-Learning/blob/main/8_sklearn.ipynb
+
+## 9. File 9 (9_sklearn)
+- ### First machine learning models 
+- train_set, test_set : train_test_split
+- **model** > functions : **fit, score**
+- **cross_val_score**
+- **best parameters**
+- **validation_curve**
+- **GridSearchCV**
+- **learning_curve**
+### link
+https://github.com/Bngfm/Machine-Learning/blob/main/9_sklearn.ipynb
+
+
