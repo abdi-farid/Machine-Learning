@@ -73,4 +73,12 @@ https://github.com/Bngfm/Machine-Learning/blob/main/8_sklearn.ipynb
 ### link
 https://github.com/Bngfm/Machine-Learning/blob/main/9_sklearn.ipynb
 
-
+## 10. File 10 (10_DataPreprocessing)
+- ### Data preprocessing
+1. Encodage --> sklearn.preprocessing
+2. Normalisation --> sklearn.preprocessing
+3. Imputation --> sklearn.impute
+4. Selection --> sklearn.feature_selection
+5. Extraction --> sklearn.feature_extraction
+### link
+https://github.com/Bngfm/Machine-Learning/blob/main/10_DataPreprocessing.ipynb
