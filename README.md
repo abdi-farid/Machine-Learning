@@ -82,3 +82,11 @@ https://github.com/Bngfm/Machine-Learning/blob/main/9_sklearn.ipynb
 5. Extraction --> sklearn.feature_extraction
 ### link
 https://github.com/Bngfm/Machine-Learning/blob/main/10_DataPreprocessing.ipynb
+
+## 11. File 11 (11_Feature_selection)
+- ### Feature selection
+1. VarianceThreshold
+2. SelectKbest
+
+### link
+https://github.com/Bngfm/Machine-Learning/blob/main/10_DataPreprocessing.ipynb
