@@ -6,6 +6,9 @@
 These are aspects that can be found in all programming languages (conditions, loop, declaration of variables, functions), this is the way of basic reasoning,
 by understanding a small problem, and we think about the method we must use in order to achieve our goal
 
+![image](https://user-images.githubusercontent.com/49769250/192538279-98fe1229-0f5d-43a4-8bcd-53acafd1ea9a.png)
+
+
 ### link 
 https://github.com/Bngfm/Machine-Learning/blob/main/1_Basics.ipynb
 
